@@ -38,13 +38,13 @@ body{
     margin: 0.5rem;
     position: absolute;
     border-radius: 10px;
-    font-size: 4vw;
+    font-size: 18px;
     backface-visibility: hidden;
 }
 .cartao_conteudo p{
     margin-top: 1rem;
     padding: 2rem;
-    font-size: 5vw;
+    font-size: 25px;
 }
 .cartao.active .cartao_conteudo{
     transform: rotateY(180deg);
